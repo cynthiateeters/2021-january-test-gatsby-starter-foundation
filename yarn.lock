@@ -11094,10 +11094,10 @@ netlify-cms-lib-util@^2.11.5:
     localforage "^1.7.3"
     semaphore "^1.1.0"
 
-netlify-cms-lib-widgets@^1.3.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-lib-widgets/-/netlify-cms-lib-widgets-1.4.0.tgz#82bf3dc2da1df4b15875a3fc2d7f62f2b1899b9a"
-  integrity sha512-RO4oM0liLjHuKANyrjaRxcApKs4wQX88BW4mu8cWy8Th6nXN5rMr28zADNF+d4CopUrNjQ1pCvYtWRyGFoObOg==
+netlify-cms-lib-widgets@^1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/netlify-cms-lib-widgets/-/netlify-cms-lib-widgets-1.6.1.tgz#e7a81ac0861e0734ed9a1558cfbdbb38582fab3a"
+  integrity sha512-UGBnoixI31VhKLeMtlz0y36LZtnn1DngxjYKAP2z53w4CiTzvkf7FL6Eu/2KzVfLhxIdel1KgWcfDOQtnmgxnQ==
 
 netlify-cms-locales@^1.18.1:
   version "1.18.1"
